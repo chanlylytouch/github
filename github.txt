@@ -1,0 +1,4 @@
+git status: to watch what new in folder
+git add . // if you have a new file
+git commit -m "description"
+git push origin master // git push -v
